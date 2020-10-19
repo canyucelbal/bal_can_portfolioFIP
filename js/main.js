@@ -1,4 +1,4 @@
-var eOpenMenu = null;
+var eOpenMenu = null; 
 
  function OpenMenu(eSrc,eMenu)
  {
