@@ -1,0 +1,11 @@
+-Folder Structure
+-Assets
+-HTML
+-Boxes and page structure with css
+-Using SASS, creating modules
+-Adding images
+-Adding JS
+-Using AJAX
+-Visual editings (animation etc)
+-MediaQuery check
+-Usage check

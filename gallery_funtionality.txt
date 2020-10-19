@@ -1,0 +1,6 @@
+Probably, gallery will not look like the layout in the assets folder. I don't whether I can do that but;
+
+Will be 1 or 3 large image at the center of the page. 
+There will be 2 arrows both at the top and the bottom
+When you push an arrow, it will flow away through that side
+And another image comes from opposite side
